@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white2">#00FFFFFF</color>
+    <color name="gray">#8E8E8E</color>
+    <!--test de activities -->
+    <color name="red">#FF0000</color>
+
+    <!-- colores principales -->
+
+    <!-- colores botones -->
+    <color name="green">#00FB0D</color>
+    <color name="blue">#0055FF</color>
+    <!-- boton play/stop-->
+    <color name="orange">#FB9400</color>
+</resources>

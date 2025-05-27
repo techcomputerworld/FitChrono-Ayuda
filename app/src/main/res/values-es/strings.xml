@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitChrono</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chronometer">Chronometer</string>
+
+    <string name="tabatatime">Temp Tabata </string>
+    <!-- CronoFragment -->
+    <string name="chronometerpro">Cronómetro </string>
+    <string name="buttonstart">Iniciar</string>
+    <string name="buttonstop">Detener</string>
+    <string name="buttonrestart">Reiniciar</string>
+    <string name="buttonlap">Vuelta</string>
+    <!-- TempFragment -->
+    <string name="timer">Temporizador</string>
+    <string name="timerfreq">temporizadores usados con frecuencia</string>
+    <string name="add">Añadir</string>
+    <string name="buttontime">add time to be able to add timers</string>
+    <!-- Item timer -->
+    <string name="stop_button">stop button</string>
+    <string name="play_button">play button</string>
+
+</resources>

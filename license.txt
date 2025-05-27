@@ -1,0 +1,23 @@
+LICENCIA DE USO Y RESTRICCIONES
+
+1. ACEPTACIÓN DE LA LICENCIAEste acuerdo de licencia ("Licencia") es un contrato legal entre el usuario ("Usuario") y [Tu Nombre o Nombre de la Empresa] ("Propietario") para el uso de la aplicación de software desarrollada por el Propietario ("Software"). Al instalar, copiar o utilizar el Software, el Usuario acepta los términos de esta Licencia.
+
+2. DERECHOS DE USOEl Propietario otorga al Usuario un derecho no exclusivo, intransferible y revocable para instalar y utilizar el Software únicamente en dispositivos personales.
+
+3. RESTRICCIONESEl Usuario acepta que no podrá:
+
+Modificar, descompilar, desensamblar, realizar ingeniería inversa, alterar o crear trabajos derivados basados en el Software.
+
+Copiar, distribuir, sublicenciar, vender, alquilar o ceder el Software a terceros.
+
+Utilizar el Software para actividades ilícitas, incluyendo pero no limitado a, hacking, ingeniería inversa, análisis de seguridad o cualquier otra actividad que pueda comprometer la integridad del Software.
+
+Remover, alterar o modificar cualquier aviso de derechos de autor, marcas comerciales o cualquier otro aviso de propiedad del Software.
+
+4. PROPIEDAD INTELECTUALEl Software, incluyendo pero no limitado a su código fuente, estructura, diseño, contenido y documentación, es propiedad exclusiva del Propietario y está protegido por las leyes de propiedad intelectual y tratados internacionales.
+
+5. LIMITACIÓN DE GARANTÍAS Y RESPONSABILIDADEl Software se proporciona "tal cual", sin garantías de ningún tipo, ya sean expresas o implícitas. En ningún caso el Propietario será responsable por daños directos, indirectos, incidentales o consecuentes derivados del uso o la imposibilidad de uso del Software.
+
+6. TERMINACIÓNEl incumplimiento de cualquiera de las restricciones establecidas en esta Licencia dará derecho al Propietario a revocar de inmediato el uso del Software sin previo aviso.
+
+7. LEGISLACIÓN APLICABLEEste acuerdo se regirá e interpretará conforme a las leyes de [Tu País o Jurisdicción], y cualquier disputa será resuelta en los tribunales de dicha jurisdicción.
